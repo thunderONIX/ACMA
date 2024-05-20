@@ -24,7 +24,7 @@ ACMA - um sistema de gestão de academias
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/design/cDy9EfIoBQTXigfE9m1XmH/PI---Grupo-32?node-id=0%3A1&t=KFiJ5e9hOV8pzGqV-1). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/design/cDy9EfIoBQTXigfE9m1XmH/PI---Grupo-32?node-id=0%3A1&t=RZ0iqxhT1ftB5D2r-1). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## :boom: Como executar
 

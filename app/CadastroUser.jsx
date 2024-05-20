@@ -80,7 +80,7 @@ export default function CadastroUser({ navigation }) {
 
         <View style={styles.schoolIconContainer}>
           <Text style={isMobile ? styles.overlayTitleMobile : styles.overlayTitle}> ACMA </Text>
-          <MaterialIcons name="school" style={isMobile ? styles.overlayTitleMobile : styles.overlayIcon} />
+          <MaterialIcons name="sports" style={isMobile ? styles.overlayTitleMobile : styles.overlayIcon} />
         </View>
 
 
