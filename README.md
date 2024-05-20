@@ -16,11 +16,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React-Native](https://reactnative.dev/)
 - [Express.js](https://expressjs.com/)
 - [SQLite](https://www.sqlite.org/index.html)
-- [Vercel](https://vercel.com/)
 
 ## 💻 Projeto
 
 ACMA - um sistema de gestão de academias
+
+Vídeo demo: https://youtu.be/SuU2R53CE0g
 
 ## 🔖 Layout
 
@@ -35,8 +36,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - Inicie o servidor com `npm run web`
 
 Agora você pode acessar [`localhost:19006`](http://localhost:19006/) do seu navegador.
-
-Link de acesso ao app [vercel](https://acma-nine.vercel.app/).
 
 ## 📄 Licença
 
