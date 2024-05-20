@@ -36,7 +36,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 Agora você pode acessar [`localhost:19006`](http://localhost:19006/) do seu navegador.
 
-Link de acesso ao app [vercel](https://acma.vercel.app/).
+Link de acesso ao app [vercel](https://acma-nine.vercel.app/).
 
 ## 📄 Licença
 
